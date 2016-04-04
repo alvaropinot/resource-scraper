@@ -1,0 +1,19 @@
+{
+  "name": "resource-scraper",
+  "version": "0.0.1",
+  "description": "resource scraper",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "resource",
+    "scraper"
+  ],
+  "author": "Alvaro Pinot",
+  "license": "MIT",
+  "dependencies": {
+    "node-readability": "^2.2.0",
+    "upndown": "^2.0.2"
+  }
+}
